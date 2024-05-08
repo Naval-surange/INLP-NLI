@@ -12,7 +12,7 @@ the checkpoints can be download [HERE](https://drive.google.com/drive/folders/1R
 
 ## Reproduce paper results step by step
 In this paper, we utilize self-explaining structures in different NLP tasks. This repo contains all train 
-and evaluate codes, but here, we only provide commands for SST-5 task as an example. 
+and evaluate codes, but here, we only provide commands for snli task as an example. 
 For other tasks, you can reproduce the results simply by modifying the commands.
 
 ### 1.Train the self-explaining model
